@@ -16,3 +16,5 @@ https://kazuhito00.github.io/Unity-VideoPlayer-WebGL-Sample/
  
 # License 
 Unity-VideoPlayer-WebGL-Sample is under [Apache-2.0 License](LICENSE).
+
+また、動画素材は[Pixabay](https://pixabay.com/ja/videos/)様を利用しています。
