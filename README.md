@@ -8,6 +8,9 @@ https://kazuhito00.github.io/Unity-VideoPlayer-WebGL-Sample/
 # Requirement 
 * Unity 2020.1.6f1 or later
 
+# Reference
+* [UnityのWebGLで日本語を表示する](https://qiita.com/tsubaki_t1/items/93e4b91b830729cd93a4)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
