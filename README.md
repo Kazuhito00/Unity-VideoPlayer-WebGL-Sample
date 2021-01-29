@@ -3,6 +3,7 @@ Unityの動画再生をWebGLビルドしたサンプルです。
 
 # Demo
 動作確認用ページは以下。<br>
+画面クリックで再生と一時停止が切り替わります。<br>
 https://kazuhito00.github.io/Unity-VideoPlayer-WebGL-Sample/
 
 # Requirement 
