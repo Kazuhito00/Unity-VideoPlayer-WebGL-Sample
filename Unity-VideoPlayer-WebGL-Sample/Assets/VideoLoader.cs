@@ -8,7 +8,7 @@ public class VideoLoader : MonoBehaviour
     [SerializeField]
     private string relativePath;
 
-	// Use this for initialization
+    // Use this for initialization
     void Start()
     {
         VideoPlayer videoplayer = GetComponent<VideoPlayer>();
@@ -26,7 +26,7 @@ public class VideoLoader : MonoBehaviour
     {
         vp.prepareCompleted -= PrepareCompleted;
         vp.Play();
-	}
+    }
 
     public void VideoPlayerControl()
     {
@@ -38,5 +38,4 @@ public class VideoLoader : MonoBehaviour
             videoplayer.Pause();
         }
     }
-
 }
