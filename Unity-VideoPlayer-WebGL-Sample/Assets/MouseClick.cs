@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class MouseClick : MonoBehaviour
 {
-	GameObject referenceObj;
+    GameObject referenceObj;
 
     // Start is called before the first frame update
     void Start()
     {
-		referenceObj = GameObject.Find("Plane");
+        referenceObj = GameObject.Find("Plane");
     }
 
     // Update is called once per frame
